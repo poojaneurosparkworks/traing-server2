@@ -2,7 +2,6 @@
   "name": "servers",
   "version": "1.0.0",
   "main": "index.js",
-  "type": "module",
   "scripts": {
     "express:start": "tsx watch express-index.ts",
     "fastify:start": "tsx watch fastify-index.ts",
